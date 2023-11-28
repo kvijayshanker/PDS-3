@@ -1,0 +1,5 @@
+1. Sample mean and maximum are Lesser than the population mean and maximum
+
+2. I have observed that the  sample percentile is lesser than the population percentile
+
+3. There is a minimal difference between population and bootstrap statistics
